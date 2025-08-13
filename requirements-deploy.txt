@@ -1,0 +1,30 @@
+# Streamlit Community Cloud - Optimized Requirements
+# Core Streamlit
+streamlit>=1.28.0
+
+# Essential Dependencies
+openai>=1.85.0
+langchain>=0.2.0
+langchain-openai>=0.1.0
+
+# Document Processing
+jinja2>=3.1.0
+python-docx>=1.1.0
+reportlab>=4.0.0
+Pillow>=10.0.0
+
+# HTTP and Utilities
+requests>=2.31.0
+python-dotenv>=1.0.0
+pydantic>=2.9.0
+typing-extensions>=4.11.0
+
+# Additional Dependencies
+beautifulsoup4>=4.12.0
+duckduckgo-search>=4.1.0
+packaging>=23.0
+setuptools>=68.0.0
+
+# Streamlit UI Enhancements (if needed)
+streamlit-option-menu>=0.3.6
+streamlit-extras>=0.3.6
