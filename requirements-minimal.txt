@@ -1,12 +1,6 @@
-# Minimal requirements for Streamlit Community Cloud
-# Maximum compatibility - minimal dependencies
-
+# Minimal requirements for Streamlit Cloud deployment
 streamlit==1.28.0
 openai==1.85.0
-langchain==0.2.0
-langchain-openai==0.1.0
-jinja2==3.1.0
-python-docx==1.1.0
 Pillow==10.0.0
 requests==2.31.0
 python-dotenv==1.0.0
